@@ -1,6 +1,6 @@
 # Przkłady tematów
 
-Lista ta będzie rozbudowywana. Tematy w ramach projektów nowatorskich mogą być nie tylko z tematów bezpośrednio związanych z chmurą.
+Lista ta będzie rozbudowywana. Tematy projektów nowatorskich nie muszą koniecznie być związane z chmurą obliczeniową. 
 
 ## Rozwiajanie aplikacji w chmurze
 
