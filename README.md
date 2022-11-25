@@ -6,7 +6,7 @@ Cel: Temat, github, oraz spis treści gotowy wraz z literaturą.
 
 Spotkania:
 
-1. Wstęp - [slajdy](00_wstep/index.pdf),
+1. Wstęp - [slajdy](00_wstep/index.pdf), [przykladowe tematy](01_topic_examples/README.md),
 2. Opowiedzi na pytania dotyczące zaakceptowanych tematów,
 3. Pierwsza iteracja tematu - prezentacja tematu oraz spisu treści,
 4. Druga iteracja tematu oraz related work.
