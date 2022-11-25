@@ -4,6 +4,8 @@
 
 Cel: Temat oraz spis treści gotowy
 
+1. Wprowadzenie
+2. Prezentacja tematu oraz spisu treśći
 
 ## Semestr 2
 
