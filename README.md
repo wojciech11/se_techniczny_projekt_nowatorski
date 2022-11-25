@@ -4,10 +4,12 @@
 
 Cel: Temat, github, oraz spis treści gotowy wraz z literaturą.
 
+Spotkania:
+
 1. Wstęp - [slajdy](00_wstep/index.pdf),
 2. Opowiedzi na pytania dotyczące zaakceptowanych tematów,
-3. Prezentacja tematu oraz spisu treści,
-4. Prezentacja tematu oraz spisu treści.
+3. Pierwsza iteracja tematu - prezentacja tematu oraz spisu treści,
+4. Druga iteracja tematu oraz related work.
 
 ## Semestr 2
 
