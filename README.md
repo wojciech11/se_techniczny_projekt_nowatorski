@@ -1,11 +1,11 @@
-# Techniczny projekt nowatorski 
+# Techniczny projekt nowatorski
 
 ## Semestr 1
 
 Cel: Temat, github, oraz spis treści gotowy wraz z literaturą.
 
-1. Wstęp - [slajdy](0_wstep/index.pdf),
-2. Opowiedzi na pytania,
+1. Wstęp - [slajdy](00_wstep/index.pdf),
+2. Opowiedzi na pytania dotyczące zaakceptowanych tematów,
 3. Prezentacja tematu oraz spisu treści,
 4. Prezentacja tematu oraz spisu treści.
 
