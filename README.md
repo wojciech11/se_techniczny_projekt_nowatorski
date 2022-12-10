@@ -8,7 +8,7 @@ Spotkania:
 
 1. Wstęp - [slajdy](00_wstep/index.pdf), [przykladowe tematy](01_topic_examples/README.md),
 2. Opowiedzi na pytania dotyczące zaakceptowanych tematów,
-3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/)) - prezentacja tematu oraz spisu treści,
+3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/index.pdf)) - prezentacja tematu oraz spisu treści,
 4. Druga iteracja tematu oraz related work.
 
 ## Semestr 2
