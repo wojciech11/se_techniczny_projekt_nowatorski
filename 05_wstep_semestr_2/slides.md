@@ -18,10 +18,19 @@ style: |
 ## Cel
 <br />
 
-1. aplikacja - end2end w happy path
-2. część pisemna - draft z opisami sekcji
+1. aplikacja - end2end w happy path,
+2. część pisemna - draft z opisami sekcji.
 
-Aplikacja ma najwyższy priorytet.
+Budowa aplikacji  ma najwyższy priorytet.
+
+---
+<!-- _class: lead -->
+## Aplikacha
+<br />
+
+1. iteracje
+2. iteracje
+3. iteracje
 
 ---
 <!-- _class: lead -->
