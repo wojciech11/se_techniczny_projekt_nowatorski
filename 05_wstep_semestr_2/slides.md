@@ -140,3 +140,20 @@ tydz 8     | TBA                  |                    |
 <!-- _class: lead -->
 ## Dziękuję za uwagę
 <br />
+
+---
+<!-- _class: lead -->
+## Backup
+<br />
+
+---
+<!-- _class: lead -->
+## Misc
+<br />
+
+Facilitate growth:
+
+- [Ed Batista - the art of self coaching](https://www.edbatista.com/the-art-of-self-coaching-public-course.html),
+- [yes, and...,](https://en.wikipedia.org/wiki/Yes,_and...)
+- masterclass,
+- or [other initiatives](https://eonyc.org/wp-content/uploads/EOResources/ModeratorResources/MyEOForumModeratorGuidebook.pdf).
