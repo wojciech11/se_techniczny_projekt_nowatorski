@@ -117,8 +117,15 @@ tydz 8     | TBA                  |                    |
 <!-- _class: lead -->
 ## docs/plan.md
 
-- czym dalej w przyszłość tym większa jednostka miary
-- the planning activity is everything
+- czym dalej w przyszłość tym większa jednostka miary,
+- the planning activity is everything.
+
+---
+<!-- _class: lead -->
+## Pisemna (za 2-3 spotkania)
+
+- spis treści
+- related work
 
 ---
 <!-- _class: lead -->
