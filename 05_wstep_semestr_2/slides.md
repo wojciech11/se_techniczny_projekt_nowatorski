@@ -18,19 +18,19 @@ style: |
 ## Cel
 <br />
 
-1. aplikacja - end2end w happy path,
-2. część pisemna - draft z opisami sekcji.
+1. Aplikacja - end2end w happy path,
+2. Część pisemna - draft z opisami sekcji.
 
 Budowa aplikacji  ma najwyższy priorytet.
 
 ---
 <!-- _class: lead -->
-## Aplikacha
+## Aplikacja
 <br />
 
-1. iteracje
-2. iteracje
-3. iteracje
+1. iteracje,
+2. iteracje,
+3. iteracje.
 
 Częsty deployment do prod - krótki lead time i wysokie deploy freq (patrz DORA metrics).
 
@@ -52,8 +52,8 @@ Częsty deployment do prod - krótki lead time i wysokie deploy freq (patrz DORA
 Kod:
 
 - Działający kod
-- klarowny README.md
-- README.md z podpiętym demem
+- klarowny `README.md`
+- `README.md` z podpiętym demem
 - Duży plus za CD/CI (linter)!
 
 ---
@@ -135,8 +135,8 @@ tydz 8     | TBA                  |                    |
 <!-- _class: lead -->
 ## Pisemna (za 2-3 spotkania)
 
-- spis treści
-- related work
+- spis treści,
+- related work.
 
 ---
 <!-- _class: lead -->
