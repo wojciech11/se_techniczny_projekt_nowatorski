@@ -28,11 +28,11 @@ Budowa aplikacji  ma najwyższy priorytet.
 ## Aplikacja
 <br />
 
-1. iteracje,
+1. iteracje, 
 2. iteracje,
 3. iteracje.
 
-Częsty deployment do prod - krótki lead time i wysokie deploy freq (patrz DORA metrics).
+Co iteracja, deploy do prod - krótki lead time i wysokie deploy freq (patrz DORA metrics).
 
 ---
 <!-- _class: lead -->
@@ -133,10 +133,43 @@ tydz 8     | TBA                  |                    |
 
 ---
 <!-- _class: lead -->
-## Pisemna (za 2-3 spotkania)
+## Część Pisemna
+
+- [Wytyczne WSB dotyczące pracy lic/inz](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/01_wymagania_formalne/13_2021-Zarzadzenie_projekt_inz.pdf)
+- Related work: Google Scholar,
+- Format: docx lub LaTeX.
+
+---
+<!-- _class: lead -->
+## Część Pisemna
+
+Rekomendacja:
+
+- wyłączamy podkreślanie gramatyki itp.
+- Przelewamy na "papier" swoje myśli,
+- koniec paragrafu? Teraz redagujemy
+
+Warto przeczytać - ([writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183)).
+
+---
+<!-- _class: lead -->
+## Następne spotkanie
+
+Część pisamna:
 
 - spis treści,
+- opisy poszczególnych punktów,
 - related work.
+
+(w repozytorium)
+
+---
+<!-- _class: lead -->
+## Następne spotkanie
+
+Część kodu:
+
+- przyjnajmniej 4 commity kodu.
 
 ---
 <!-- _class: lead -->
@@ -147,6 +180,12 @@ tydz 8     | TBA                  |                    |
 <!-- _class: lead -->
 ## Backup
 <br />
+
+---
+<!-- _class: lead -->
+## Inne poradniki
+
+- [Poradnik](https://www.ii.pwr.edu.pl/~michalski/media/poradnik.pdf).
 
 ---
 <!-- _class: lead -->
