@@ -28,7 +28,7 @@ Budowa aplikacji  ma najwyższy priorytet.
 ## Aplikacja
 <br />
 
-1. iteracje, 
+1. iteracje,
 2. iteracje,
 3. iteracje.
 
@@ -155,13 +155,13 @@ Warto przeczytać - ([writing with power](https://www.amazon.com/Writing-Power-T
 <!-- _class: lead -->
 ## Następne spotkanie
 
-Część pisamna:
+Część pisemna:
 
 - spis treści,
 - opisy poszczególnych punktów,
 - related work.
 
-(w repozytorium)
+(w repozytorium, warto robić backup)
 
 ---
 <!-- _class: lead -->
@@ -169,7 +169,7 @@ Część pisamna:
 
 Część kodu:
 
-- przyjnajmniej 4 commity kodu.
+- przynajmniej 4 commity kodu.
 
 ---
 <!-- _class: lead -->
