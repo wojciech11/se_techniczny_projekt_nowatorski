@@ -15,7 +15,7 @@ Spotkania:
 
 Cel: delivery end2end, czyli działająca aplikacja w happy path.
 
-1. Wstęp,
+1. Wstęp & sprawdzenie gdzie jesteście z pracą - [slajdy](05_wstep_semestr_2/slides.pdf) ([md](05_wstep_semestr_2/slides.md)),
 2. Demo co mamy po ostatnim semestrze, 
 3. Omówienie przykładu wyniku projektu w czasie tego semestru,
 4. TBA,
@@ -27,6 +27,7 @@ Cel: część pisemna, patchowanie/rozbudowa
 
 ## Materiały dodatkowe
 
+- Materiały z [projektu zespołowego](https://github.com/wojciech11/se_projekt_zespolowy/)
 - deliver patch/patch;
 - [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp);
 - [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s);
