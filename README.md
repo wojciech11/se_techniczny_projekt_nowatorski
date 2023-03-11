@@ -15,10 +15,11 @@ Spotkania:
 
 Cel: delivery end2end, czyli działająca aplikacja w happy path.
 
-1. Wstęp
-2. Omówienie przykładu wyniku projektu w czasie tego semestru
-3. TBA
-4. Demo
+1. Wstęp,
+2. Demo co mamy po ostatnim semestrze, 
+3. Omówienie przykładu wyniku projektu w czasie tego semestru,
+4. TBA,
+5. Demo.
 
 ## Semestr 3
 
