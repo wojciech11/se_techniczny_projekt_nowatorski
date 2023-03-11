@@ -32,6 +32,8 @@ Budowa aplikacji  ma najwyższy priorytet.
 2. iteracje
 3. iteracje
 
+Częsty deployment do prod - krótki lead time i wysokie deploy freq (patrz DORA metrics).
+
 ---
 <!-- _class: lead -->
 ## Sprawdzenie gdzie jesteśmy
