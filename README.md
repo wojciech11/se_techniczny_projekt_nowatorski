@@ -16,7 +16,7 @@ Spotkania:
 Cel: delivery end2end, czyli działająca aplikacja w happy path.
 
 1. Wstęp & sprawdzenie gdzie jesteście z pracą - [slajdy](05_wstep_semestr_2/slides.pdf) ([md](05_wstep_semestr_2/slides.md)),
-2. Pokazanie uzupełnionych braków ([co trzeba mieć](06_checkpoint/README.md)),
+2. Pokazanie uzupełnionych braków - [co trzeba mieć](06_checkpoint/README.md),
 3. Omówienie przykładu wyniku projektu w czasie tego semestru,
 4. TBA,
 5. Demo.
@@ -24,6 +24,12 @@ Cel: delivery end2end, czyli działająca aplikacja w happy path.
 ## Semestr 3
 
 Cel: część pisemna, patchowanie/rozbudowa
+
+1. Wstęp & sprawdzene, gdzie jesteśmy z pracą,
+2. Demo,
+3. Feedback,
+4. TBA
+5. TBA
 
 ## Materiały dodatkowe
 
@@ -34,4 +40,3 @@ Cel: część pisemna, patchowanie/rozbudowa
 - [Design Doc](https://adityarohilla.com/2022/03/22/the-system-design-template-i-use/);
 - [Cal Newport blog](https://www.calnewport.com/blog/);
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183).
-
