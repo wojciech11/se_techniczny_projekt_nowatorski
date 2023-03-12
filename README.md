@@ -23,7 +23,7 @@ Cel: delivery end2end, czyli działająca aplikacja w happy path + pisemna w dra
 
 ## Semestr 3
 
-Cel: część pisemna, patchowanie/rozbudowa aplikacji
+Cel: część pisemna + patchowanie/rozbudowa aplikacji = dobra ocena.
 
 1. Wstęp & sprawdzene, gdzie jesteśmy z pracą,
 2. Demo,
