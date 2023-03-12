@@ -13,7 +13,7 @@ Spotkania:
 
 ## Semestr 2
 
-Cel: delivery end2end, czyli działająca aplikacja w happy path.
+Cel: delivery end2end, czyli działająca aplikacja w happy path + pisemna w drafcie.
 
 1. Wstęp & sprawdzenie gdzie jesteście z pracą - [slajdy](05_wstep_semestr_2/slides.pdf) ([md](05_wstep_semestr_2/slides.md)),
 2. Pokazanie uzupełnionych braków - [co trzeba mieć](06_checkpoint/README.md),
@@ -23,7 +23,7 @@ Cel: delivery end2end, czyli działająca aplikacja w happy path.
 
 ## Semestr 3
 
-Cel: część pisemna, patchowanie/rozbudowa
+Cel: część pisemna, patchowanie/rozbudowa aplikacji
 
 1. Wstęp & sprawdzene, gdzie jesteśmy z pracą,
 2. Demo,
