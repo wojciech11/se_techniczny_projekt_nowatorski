@@ -16,23 +16,25 @@ Spotkania (5 razy):
 
 ## Semestr 2
 
-Cel: delivery end2end, czyli działająca aplikacja w happy path + pisemna w drafcie. Spotykamy się 5 razy na dwie godziny lekcyjne.
+Cel: delivery end2end, czyli działająca aplikacja w happy path + pisemna w drafcie. Widzimy się 5 razy na dwie godziny lekcyjne.
+
+Spotkania:
 
 1. Wstęp & sprawdzenie gdzie jesteście z pracą - [slajdy](05_wstep_semestr_2/slides.pdf) ([md](05_wstep_semestr_2/slides.md)),
 2. Pokazanie uzupełnionych braków - [co trzeba mieć](06_checkpoint/README.md),
 3. Omówienie przykładu wyniku projektu w czasie tego semestru,
 4. TBA, prezentacja i demo,
-5. Demo.
+5. Life demo.
 
 ## Semestr 3
 
-Cel: część pisemna + patchowanie/rozbudowa aplikacji = dobra ocena.
+Cel: część pisemna + patchowanie/rozbudowa aplikacji -&gt; dobra ocena.
 
-1. Wstęp & sprawdzene, gdzie jesteśmy z pracą,
+1. Wstęp & sprawdzenie, gdzie jesteśmy z pracą,
 2. Demo,
-3. Feedback,
+3. TBA
 4. TBA
-5. TBA
+5. Live demo, przejście po pracy, ...
 
 ## Materiały dodatkowe
 
