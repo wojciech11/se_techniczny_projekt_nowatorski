@@ -10,7 +10,7 @@ Spotkania (5 razy):
 
 2. Odpowiedzi na pytania dotyczące zaakceptowanych tematów oraz [omówienie przykładowej pracy końcowej](02_przykladowe_prace) oraz dyskusja na temat [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
 
-3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/index.pdf)) - prezentacja tematu oraz spisu treści + (super) plany na Proof-of-Concept/Spike/MVP.
+3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/index.pdf)) - prezentacja tematu oraz spisu treści + (super) postęp z Proof-of-Concept/Spike/MVP.
 
 4. TBA;
 
