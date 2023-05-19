@@ -2,7 +2,7 @@
 
 ## Semestr 1
 
-Cel: Temat, github, oraz spis treści gotowy wraz z literaturą.
+Cel: Temat, github, oraz spis treści gotowy wraz z literaturą. Wskazany jest również [PoC lub MVP](02_validating_ideas/README.md).
 
 Spotkania (5 razy):
 
@@ -10,11 +10,19 @@ Spotkania (5 razy):
 
 2. Odpowiedzi na pytania dotyczące zaakceptowanych tematów oraz [omówienie przykładowej pracy końcowej](02_przykladowe_prace) oraz dyskusja na temat [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
 
-3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/index.pdf)) - prezentacja tematu oraz spisu treści + (super) postęp z Proof-of-Concept/Spike/MVP.
+3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/index.pdf)) - prezentacja tematu oraz spisu treści + (super) postęp z Proof-of-Concept/Spike/MVP;
 
-4. TBA;
+4. Sprawdzenie ([checklista](04_checkpoint/README.md)), gdzie jesteśmy z projektem nowatorskim; możliwość zadania pytań dotyczących projektu, problemów implementacyjnych, lub technologii.
 
-5. Druga prezentacja demo, kolejna iteracja spis treści, oraz literatury na zaliczenie.
+5. Na zaliczenie:
+
+   - 8 minut na osobę:
+     - prezentacja pomysł na projekt;
+	  - spis treści;
+     - literatury;
+     - life demo PoC / Spike czy MVP.
+   
+   - wszystko w Git (łącznie z prezentacją).
 
 ## Semestr 2
 
@@ -22,21 +30,30 @@ Cel: delivery end2end, czyli działająca aplikacja w happy path + pisemna w dra
 
 Spotkania:
 
-1. Wstęp & sprawdzenie gdzie jesteście z pracą - [slajdy](05_wstep_semestr_2/slides.pdf) ([md](05_wstep_semestr_2/slides.md)),
-2. Pokazanie uzupełnionych braków - [co trzeba mieć](06_checkpoint/README.md),
-3. Omówienie przykładu wyniku projektu w czasie tego semestru,
-4. TBA, prezentacja i demo,
-5. Life demo.
+1. Wstęp & sprawdzenie gdzie jesteście z pracą - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md));
+
+2. Pokazanie uzupełnionych braków - [co trzeba mieć](12_checkpoint/README.md);
+
+3. Odpowiedzi na pytania, omówienie przykładu wyniku projektu w czasie tego semestru;
+
+4. Demo oraz prezentacja postępów;
+
+5. Na zalicznie:
+ 
+   - live demo end2end jednego ze scenariuszy waszej aplikacji;
+   - prezentacja pracy;
+   - literatura (we właściwym formacie);
+   - git repo: `README.md` czy jest regularnie wykorzystane do pracy, struktura, itp. itd.
 
 ## Semestr 3
 
 Cel: część pisemna + patchowanie/rozbudowa aplikacji -&gt; dobra ocena.
 
-1. Wstęp & sprawdzenie, gdzie jesteśmy z pracą,
-2. Demo,
-3. TBA
-4. TBA
-5. Live demo, przejście po pracy, ...
+1. Wstęp & sprawdzenie, gdzie jesteśmy z pracą;
+2. Demo;
+3. Demo;
+4. TBA;
+5. Demo, przejście po pracy pisemntej oraz literaturze.
 
 ## Materiały dodatkowe
 
