@@ -43,7 +43,7 @@ Spotkania:
    - live demo end2end jednego ze scenariuszy waszej aplikacji;
    - prezentacja pracy;
    - literatura (we właściwym formacie);
-   - git repo: `README.md` czy jest regularnie wykorzystane do pracy, struktura, itp. itd.
+   - git repo: `README.md` czy jest regularnie wykorzystane do pracy (*commits*), struktura, itp. itd.
 
 ## Semestr 3
 
@@ -52,7 +52,7 @@ Cel: część pisemna + patchowanie/rozbudowa aplikacji -&gt; dobra ocena.
 1. Wstęp & sprawdzenie, gdzie jesteśmy z pracą;
 2. Demo;
 3. Demo;
-4. TBA;
+4. Demo;
 5. Demo, przejście po pracy pisemntej oraz literaturze.
 
 ## Materiały dodatkowe
