@@ -83,4 +83,5 @@ Cel: część pisemna + patchowanie/rozbudowa aplikacji -&gt; dobra ocena.
 ## Misc
 
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183) - na trudności z pisaniem?,
-- [Cal Newport blog](https://www.calnewport.com/blog/).
+- [Cal Newport blog](https://www.calnewport.com/blog/);
+- [Wskazówki CV, linkedin, konto github, ...](https://github.com/wojciech11/se_cv_linkedin_and_interviews).
