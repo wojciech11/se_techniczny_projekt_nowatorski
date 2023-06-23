@@ -49,8 +49,16 @@ Spotkania:
 
 Cel: część pisemna + patchowanie/rozbudowa aplikacji -&gt; dobra ocena.
 
-1. Wstęp & sprawdzenie, gdzie jesteśmy z pracą;
-2. Demo;
+1. Live demo, przedstawienie planu na semestr 3 projektu nowatorskiego, pokazanie wczesnego draft pracy (jaki template wybraliście).
+
+2. Update:
+   
+   - co zrobione,
+   - co będzie zrobione,
+   - czy są jakieś blockery.
+
+   + sesja o literaturze.
+
 3. Demo;
 4. Demo;
 5. Demo, przejście po pracy pisemntej oraz literaturze.
