@@ -43,7 +43,7 @@ Spotkania:
 5. Na zalicznie:
  
    - live demo end2end jednego ze scenariuszy waszej aplikacji;
-   - prezentacja pracy;
+   - prezentacja pracy (4 slajdy max + więcej jako backup);
    - literatura (we właściwym formacie);
    - git repo: `README.md` czy jest regularnie wykorzystane do pracy (*commits*), struktura, itp. itd.
 
