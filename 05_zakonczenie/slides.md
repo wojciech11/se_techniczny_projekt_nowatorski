@@ -15,4 +15,29 @@ style: |
 
 ---
 <!-- _class: lead -->
+## Podsumowanie
+
+---
+<!-- _class: lead -->
+## Podsumowanie
+
+Proszę niezapomnieć o ocenieniu prowadzącego.
+
+---
+<!-- _class: lead -->
+## Następny semestr
+
+Seminariusz II
+
+---
+<!-- _class: lead -->
+## Następny semestr
+
+Warto wykorzystać czas wakacji na:
+
+- szlifowanie umiejęsności programistycznych,
+- oraz projekt nowatorski.
+
+---
+<!-- _class: lead -->
 ## Dziękuję
