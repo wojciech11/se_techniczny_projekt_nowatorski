@@ -24,6 +24,8 @@ Spotkania (5 razy):
    
    - wszystko w Git (łącznie z prezentacją).
 
+   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 1* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
+
 ## Semestr 2
 
 Cel: delivery end2end, czyli działająca aplikacja w happy path + pisemna w drafcie. Widzimy się 5 razy na dwie godziny lekcyjne.
