@@ -47,7 +47,7 @@ Spotkania:
    - literatura (we właściwym formacie);
    - git repo: `README.md` czy jest regularnie wykorzystane do pracy (*commits*), struktura, itp. itd.
 
-   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 1* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
+   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 2* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
 
 ## Semestr 3
 
