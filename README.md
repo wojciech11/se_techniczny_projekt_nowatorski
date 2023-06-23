@@ -47,7 +47,7 @@ Spotkania:
    - literatura (we właściwym formacie);
    - git repo: `README.md` czy jest regularnie wykorzystane do pracy (*commits*), struktura, itp. itd.
 
-   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 2* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
+   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 2* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę. Może macie jakieś pytania lub jesteście zblokowani.
 
 ## Semestr 3
 
@@ -66,6 +66,8 @@ Cel: część pisemna + patchowanie/rozbudowa aplikacji -&gt; dobra ocena.
 3. Demo;
 4. Demo;
 5. Demo, przejście po pracy pisemntej oraz literaturze.
+
+   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 3* plus nazwa grupy) do prowadzącego z linkiem do repo oraz ...
 
 ## Materiały dodatkowe
 
