@@ -36,6 +36,14 @@ Co iteracja, deploy do prod - krótki lead time i wysokie deploy freq (patrz DOR
 
 ---
 <!-- _class: lead -->
+## Praca wspólna
+<br />
+
+- parowanie się,
+- umawianie się na wspólną sesję, aby pracować nad pracą inż.
+
+---
+<!-- _class: lead -->
 ## Sprawdzenie gdzie jesteśmy
 <br />
 
@@ -155,21 +163,12 @@ Warto przeczytać - ([writing with power](https://www.amazon.com/Writing-Power-T
 <!-- _class: lead -->
 ## Następne spotkanie
 
-Część pisemna:
+[Checkpoint](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/12_checkpoint):
 
-- spis treści,
-- opisy poszczególnych punktów,
-- related work.
+- kod, gdzie jesteśmy
+- część pisemna
 
-(w repozytorium, warto robić backup)
-
----
-<!-- _class: lead -->
-## Następne spotkanie
-
-Część kodu:
-
-- przynajmniej 4 commity kodu.
+Wszysto w repozytorium.
 
 ---
 <!-- _class: lead -->
