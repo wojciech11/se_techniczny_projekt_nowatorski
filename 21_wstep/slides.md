@@ -65,6 +65,17 @@ Rekomendacja:
 
 Warto przeczytać - ([writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183)).
 
+
+---
+<!-- _class: lead -->
+## Część pisemna
+
+Plagiat:
+
+1. Cytaty: `"`,
+2. Nie zapominamy o przypis / odnośnik do literatury,
+3. Praca przejdzie przez system antyplagiatowy: [jsa](https://jsa.opi.org.pl/home/login).
+
 ---
 <!-- _class: lead -->
 ## Następne spotkanie
