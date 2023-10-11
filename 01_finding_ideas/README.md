@@ -5,4 +5,7 @@
 3. Look for a popular feature or emerging usage pattern in other solution;
 4. [Finding ideas for startup](https://liorn.substack.com/p/a-summary-of-my-learnings-on-how)
 
-Remember: doing (~1%) <<<<<< consuming (~99%).
+Remember:
+
+- doing (~1%) <<<<<< consuming (~99%);
+- everything is an iteration, everything is an experiement.
