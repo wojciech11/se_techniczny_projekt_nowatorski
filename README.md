@@ -4,17 +4,17 @@
 
 ## Semestr 1
 
-Cel: Temat, github, oraz wersja 0.1 spisu treści wraz z literaturą, [PoC lub MVP](02_validating_ideas/README.md) w wersji pierwszej.  Najwięcej energi powinno pójść na aplikację.
+Cel: Temat, opis tematu, [PoC lub MVP](02_validating_ideas/README.md), oraz początki części pisemnej. Najwięcej energi powinno pójść na aplikację.
 
 Spotkania (5 razy):
 
 1. Wstęp - [slajdy](00_wstep/index.pdf), [przykładowe tematy](01_topic_examples/README.md), [szukanie pomysłów](01_finding_ideas/) i [wymagania oraz przykładowa formatka](01_wymagania_formalne/);
 
-2. Odpowiedzi na pytania dotyczące zaakceptowanych tematów oraz [omówienie przykładowej pracy końcowej](02_przykladowe_prace) oraz dyskusja na temat [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
+2. Odpowiedzi na pytania dotyczące zaakceptowanych tematów, [omówienie przykładowej pracy końcowej](02_przykladowe_prace), oraz dyskusja na temat [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
 
-3. Pierwsza iteracja tematu ([struktura i literatura](03_related_work_and_structure/index.pdf)) - prezentacja tematu oraz spisu treści + (super) postęp z [Proof-of-Concept/Spike/MVP](02_validating_ideas/README.md);
+3. Każda prezentuje swój temat (3 min). Omówimy jak powinna wyglądać [struktura pracy i literatura](03_related_work_and_structure/index.pdf).
 
-4. Sprawdzenie ([checklista](04_checkpoint/README.md)), gdzie jesteśmy z projektem nowatorskim; możliwość zadania pytań dotyczących projektu, problemów implementacyjnych, lub technologii.
+4. Każa osoba robi demo [Proof-of-Concept/Spike/MVP](02_validating_ideas/README.md), wczesny draft pisemny (wybrana formatka, spis treści) - ([checklista](04_checkpoint/README.md)).
 
 5. Podsumowanie - [slajdy](05_zakonczenie/slides.pdf).
 

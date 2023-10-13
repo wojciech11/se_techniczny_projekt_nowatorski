@@ -1,8 +1,6 @@
 # Przkłady tematów
 
-Lista ta będzie rozbudowywana. Tematy projektów nowatorskich nie muszą koniecznie być związane z chmurą obliczeniową. 
-
-## Rozwiajanie aplikacji w chmurze
+Lista ta będzie rozbudowywana. Tematy projektów nowatorskich nie muszą koniecznie być związane z chmurą obliczeniową, mobilnymi aplikacjami...
 
 Można zacząć od podstawowej architektury dla aplikacji web (dla uproszczenia pominąłem cache, kolejki, ...):
 
@@ -11,7 +9,9 @@ flowchart
     FR(Frontend\n - web,mobile,IoT - ) --- S(Server App\nVM, lambda, K8S) --- CD(Database\nPsql, DynamoDB, document)
 ```
 
-Można zbudować wszystkie 3 warstwy w pracy i rozbudować wokół jednego aspektu:
+## Rozwijanie aplikacji w chmurze
+
+Można zbudować wszystkie 3 warstwy w pracy alibo skupić się na jednym z aspektów:
 
 1. Można skupić się na samej aplikacji (mobilna, REST, web )
 
