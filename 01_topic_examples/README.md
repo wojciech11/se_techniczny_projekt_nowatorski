@@ -39,7 +39,7 @@ Można zbudować wszystkie 3 warstwy w pracy alibo skupić się na jednym z aspe
 
 3. TBA
 
-## Integracje i plaform / infra engineering
+## Integracje, DevOps i plaform engineering
 
 1. Wykorzystanie Backstage-a do katalogu wewnętrznych serwisów
 
