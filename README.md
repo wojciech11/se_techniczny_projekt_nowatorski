@@ -8,7 +8,7 @@ Cel: Temat, opis tematu, [PoC lub MVP](02_validating_ideas/README.md), oraz pocz
 
 Spotkania (5 razy):
 
-1. Wstęp - [slajdy](00_wstep/index.pdf), [przykładowe tematy](01_przyklady_tematow/README.md), [szukanie pomysłów](01_finding_ideas/) i [wymagania, manual, oraz przykładowa formatka](01_wymagania_formalne/);
+1. Wstęp - [slajdy](00_wstep/index.pdf), [przykładowe tematy](01_przyklady_tematow/README.md), [szukanie pomysłów](01_finding_ideas/) i [wymagania oraz przykładowa formatka](01_wymagania_formalne/);
 
 2. Odpowiedzi na Wasze pytania dotyczące [wymagań formalnych](01_wymagania_formalne/) oraz Waszych tematów (przesłanych emailem wcześniej). Prowadzący omówi [przykładową pracę końcową](02_przykladowe_prace), powie też krótko o [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
 
