@@ -32,15 +32,15 @@ Spotkania (5 razy):
 
 ## Semestr 2
 
-Cel: delivery end2end, czyli działająca aplikacja w happy path + kolejna iteracja nad częścią pisemną - wczesny draft. Widzimy się 5 razy na dwie godziny lekcyjne. Najwięcej energi powinno pójść na aplikację.
+Cel: delivery end2end, czyli działająca aplikacja w happy path + kolejna iteracja nad częścią pisemną - wczesny draft. Widzimy się 5 razy na dwie godziny lekcyjne. Najwięcej energi powinno pójść na aplikację, 10-20% na część pisemną. 
 
-Spotkania:
+Spotkania (5 razy):
 
-1. Wstęp & sprawdzenie, sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md)) oraz [wymagania formalne oraz manual](01_wymagania_formalne/);
+1. Wstęp & sprawdzenie, sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md)). Proszę powtórzyć sobie [wymagania formalne](01_wymagania_formalne/);
 
 2. Demo aplikacji (wymagane do zaliczenia), przedstawienie planu na semestr 3 projektu nowatorskiego + pokazanie uzupełnionych braków (jeśli takie były) - [co trzeba mieć](12_checkpoint/README.md);
 
-3. Odpowiedzi na pytania, omówienie przykładu wyniku projektu w czasie tego semestru;
+3. Odpowiedzi na pytania oraz omówienie przykładowej pracy inżynieryjnej;
 
 4. Demo aplikacji, oraz prezentacja postępów z pracą pisemną;
 
