@@ -49,7 +49,7 @@ style: |
 <!-- _class: lead -->
 ## Część pisemna
 
-- [Wytyczne Merio dotyczące pracy lic/inz](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/01_wymagania_formalne/13_2021-Zarzadzenie_projekt_inz.pdf)
+- [Wytyczne Merio dotyczące pracy inz](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/01_wymagania_formalne/13_2021-Zarzadzenie_projekt_inz.pdf)
 - Related work: Google Scholar,
 - Format: docx lub LaTeX.
 
