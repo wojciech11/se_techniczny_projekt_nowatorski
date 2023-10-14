@@ -96,7 +96,8 @@ Przed nami 5 spotkań:
 - [Programowanie Aplikacji Internetowych](https://github.com/wojciech11/se_internet_app_development);
 - [Administracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development);
 - [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms);
-- [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment).
+- [Continuous Delivery i deployment](https://github.com/wojciech11/se_continuous_delivery_and_deployment);
+- [Programowanie aplikacji mobilnych](https://github.com/wojciech11/se_mobile_development).
 
 ### Engineering
 
