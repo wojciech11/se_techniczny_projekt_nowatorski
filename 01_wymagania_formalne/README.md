@@ -10,7 +10,3 @@ Proszę przed każdym semestrem przeczytać:
 - Wzór strony tutułowej (pobrana z ekstranetu 2023-10-14): [doc](2023_wzor_strony_tytulowej_inz_pracy_projektowej_Informatyka.doc);
 
 - Przykładowa formatka dla pracy: [docx](2023_projekt_inz_formatka_wzor_2021.docx).
-
-## Materiały dodatkowe
-
-- 
