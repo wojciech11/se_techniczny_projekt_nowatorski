@@ -12,7 +12,7 @@ Spotkania (5 razy):
 
 2. Odpowiedzi na Wasze pytania dotyczące [wymagań formalnych](01_wymagania_formalne/) oraz Waszych tematów (przesłanych emailem wcześniej). Prowadzący omówi [przykładową pracę końcową](02_przykladowe_prace), powie też krótko o [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
 
-3. Każda prezentuje swój temat (3 min), 2 slajdy maksymalnie. Omówimy jak powinna wyglądać [struktura pracy i literatura](03_related_work_and_structure/index.pdf).
+3. Każda prezentuje swój temat (4 min), 2 slajdy maksymalnie. Omówimy jak powinna wyglądać [struktura pracy i literatura](03_related_work_and_structure/index.pdf).
 
 4. Każa osoba robi demo [Proof-of-Concept/Spike/MVP](02_validating_ideas/README.md), wczesny draft pisemny (wybrana formatka, spis treści) - ([checklista](04_checkpoint/README.md)).
 
