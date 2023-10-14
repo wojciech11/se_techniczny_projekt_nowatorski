@@ -8,7 +8,7 @@ Cel: Temat, opis tematu, [PoC lub MVP](02_validating_ideas/README.md), oraz pocz
 
 Spotkania (5 razy):
 
-1. Wstęp - [slajdy](00_wstep/index.pdf), [przykładowe tematy](01_topic_examples/README.md), [szukanie pomysłów](01_finding_ideas/) i [wymagania oraz przykładowa formatka](01_wymagania_formalne/);
+1. Wstęp - [slajdy](00_wstep/index.pdf), [przykładowe tematy](01_przyklady_tematow/README.md), [szukanie pomysłów](01_finding_ideas/) i [wymagania, manual, oraz przykładowa formatka](01_wymagania_formalne/);
 
 2. Odpowiedzi na pytania dotyczące zaakceptowanych tematów, [omówienie przykładowej pracy końcowej](02_przykladowe_prace), oraz dyskusja na temat [testowania pomysłów przed implementacją](02_validating_ideas/README.md);
 
@@ -36,13 +36,13 @@ Cel: delivery end2end, czyli działająca aplikacja w happy path + kolejna itera
 
 Spotkania:
 
-1. Wstęp & sprawdzenie, sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md));
+1. Wstęp & sprawdzenie, sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md)) oraz [wymagania formalne oraz manual](01_wymagania_formalne/);
 
 2. Demo aplikacji (wymagane do zaliczenia), przedstawienie planu na semestr 3 projektu nowatorskiego + pokazanie uzupełnionych braków (jeśli takie były) - [co trzeba mieć](12_checkpoint/README.md);
 
 3. Odpowiedzi na pytania, omówienie przykładu wyniku projektu w czasie tego semestru;
 
-4. Demo aplikacji, oraz prezentacja postępów;
+4. Demo aplikacji, oraz prezentacja postępów z pracą pisemną;
 
 5. Na zaliczenie seminarium:
 
@@ -61,7 +61,7 @@ Tryb: patchowanie/rozbudowa aplikacji i focus na części pisemnej. Cel: złoże
 
 Przed nami 5 spotkań:
 
-1. Wstęp: [slajdy](21_wstep/slides.pdf), sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania.
+1. Wstęp: [slajdy](21_wstep/slides.pdf), [wymagania formalne oraz manual](01_wymagania_formalne/); sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania.
 
 2. Live demo (**wymagane do zaliczenia**), przedstawienie planu na semestr *3* projektu nowatorskiego, pokazanie wczesnego draft pracy: jaki template wybraliście oraz format dla cytowania literatury.
 
