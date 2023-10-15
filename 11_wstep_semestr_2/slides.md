@@ -11,26 +11,80 @@ style: |
 
 ---
 <!-- _class: lead -->
-# Semestr 2: Cele i plan
+## Techniczny Projekt Nowatorski
+
+![width:300px](img/_81e65d0d-188e-4ab2-bb3f-73df0074a822.jpeg)
+
+Semestr 2 z 3 (półmetek).
 
 ---
 <!-- _class: lead -->
 ## Cel
+
+Według prorytetu [[1](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/00_wstep/index.pdf)]:
+
+1. Oddanie na czas,
+2. Dobra ocena,
+3. Nauczenie się czegoś nowego,
+4. Bez tracenia nerwów.
+
+---
+<!-- _class: lead -->
+## Status po pierwszym semestrze
 <br />
 
-1. Aplikacja - end2end w happy path,
-2. Część pisemna - draft z opisami sekcji.
+Na następnym spotkaniu sprawdzimy:
 
-Budowa aplikacji  ma najwyższy priorytet.
+- Demo: PoC lub MVP działające
+
+- Pokazanie: pracy pisemnej
+
+```
+|- ... # kod
+|- docs/
+|
+\- README.md
+```
+
+---
+<!-- _class: lead -->
+## Cel dla semestru 2
+<br />
+
+Prorytety / sugerowane przeznaczenie czasu:
+
+1. Aplikacja - end2end w happy path - 80%;
+2. Część pisemna - draft z opisami sekcji - 20%.
+
+Budowa aplikacji ma najwyższy priorytet.
+
+---
+<!-- _class: lead -->
+## Cel dla semestru 2
+
+Plan na semestr:<br />
+
+[github.com/wojciech11/se_techniczny_projekt_nowatorski](https://github.com/wojciech11/se_techniczny_projekt_nowatorski)
 
 ---
 <!-- _class: lead -->
 ## Aplikacja
 <br />
 
-1. iteracje,
-2. iteracje,
-3. iteracje.
+- Tracer-bullet development;
+
+- Deliver, patch, patch.
+
+---
+<!-- _class: lead -->
+## Aplikacja
+<br />
+
+Flow:
+
+1. iteracja, push do gita
+2. iteracje, push do gita
+3. iteracje...
 
 Co iteracja, deploy do prod - krótki lead time i wysokie deploy freq (patrz DORA metrics).
 
@@ -44,18 +98,7 @@ Co iteracja, deploy do prod - krótki lead time i wysokie deploy freq (patrz DOR
 
 ---
 <!-- _class: lead -->
-## Sprawdzenie gdzie jesteśmy
-<br />
-
-```
-|- ... # kod
-|- docs/
-|
-\- README.md
-```
----
-<!-- _class: lead -->
-## Jak wygląda dobrze zrobiona praca
+## Repozytorium
 <br>
 Kod:
 
@@ -69,11 +112,11 @@ Kod:
 ## README.md
 
 ```markdown
-# Tytuł
+# Tytuł pracy
 
-*2 zdania opisu*
+*Opis tematu (why,what, i how)*
 
-*Link do dema*
+*Link do dema / prezentacji*
 
 ## Development
 
@@ -85,67 +128,6 @@ Kod:
 
 *linki do dokumentacji istotnej dla aplikacji, projektu, co kolwiek co było nam pomocne*
 ```
-
----
-<!-- _class: lead -->
-## README.md
-<br />
-Sposób myślenia:
-
-- koleżanka/kolega bez naszej pomocy, może zacząć pracować z naszą aplikacją
-
----
-<!-- _class: lead -->
-## Następne
-<br />
-
-- plan na semestr (`docs/plan.md`), z wyszczególnionymi punktami
-- kolejna iteracja pracy nad kodem
-
----
-<!-- _class: lead -->
-## docs/plan.md
-
-```
-## Project Plan and Tracking
-
-## Plan
-
-Data                    |  Task        | Notatka       |
-------------------------|--------------|---------------|
-2023-03-11              |              |  Zrobilismy X |
-2023-05-01 - 2023-05-18 |              |  Zrobilismy X |
-
-## Tracking
-
-Every 2 weeks update:
-
-Data       |  Zmiany ETA          | Notatka            |
------------|----------------------|--------------------|
-2023-03-11 | march v1<br/>June v2 |  Zrobilismy X      |
-tydz 2     | TBA                  |  Review design doc z klientem |
-tydz 3     | TBA                  |                    |
-tydz 4     | TBA                  |                    |
-tydz 5     | TBA                  |                    |
-tydz 6     | TBA                  |                    |
-tydz 7     | TBA                  |                    |
-tydz 8     | TBA                  |                    |
-```
-
----
-<!-- _class: lead -->
-## docs/plan.md
-
-- czym dalej w przyszłość tym większa jednostka miary,
-- the planning activity is everything.
-
----
-<!-- _class: lead -->
-## Część Pisemna
-
-- [Wytyczne WSB dotyczące pracy lic/inz](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/01_wymagania_formalne/13_2021-Zarzadzenie_projekt_inz.pdf)
-- Related work: Google Scholar,
-- Format: docx lub LaTeX.
 
 ---
 <!-- _class: lead -->
@@ -161,14 +143,83 @@ Warto przeczytać - ([writing with power](https://www.amazon.com/Writing-Power-T
 
 ---
 <!-- _class: lead -->
+## Część Pisemna
+
+W repozytorium githuba (docx, latex...):
+
+```
+|- ...
+|- docs/
+|   |- related_work/
+|   |- data/
+|   |- ...
+|   \- praca_inz.docx
+|
+|- kod i implementacja
+|
+\- README.md
+```
+
+---
+<!-- _class: lead -->
+## Po dzisiejszym spotkaniu:
+
+Przeczytać/przypomnieć sobie: [wymagania formalne](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_wymagania_formalne).
+
+---
+<!-- _class: lead -->
+## Po dzisiejeszym spotkaniu
+<br />
+
+Do repozytorium:
+
+- plan na semestr (`docs/plan2.md`), z wyszczególnionymi punktami
+- kolejna iteracja pracy nad kodem
+
+---
+<!-- _class: lead -->
+## docs/plan2.md
+
+Alternatywa, e.g., Google Spreadsheet:
+
+```
+# Plan - semestr 2
+
+## Plan 
+
+Data                    | Zadanie         | Notatka    |
+------------------------|-----------------|------------|
+2023-03-11              |                 |  Zrobimy X |
+2023-05-01 - 2023-05-18 |                 |  Zrobimy Y |
+
+## Tracking
+
+Data (co 2 tyg) | ETA                  | Notatka                      |
+----------------|----------------------|------------------------------|
+2023-02-01      | march v1<br/>June v2 | Zrobilismy X                 |
+2023-02-15      | march v1             | Review design doc z klientem |
+2023-03-01      | 1/2 half Aptil v1    |                              |
+...             | ...                  |                              |
+```
+
+---
+<!-- _class: lead -->
+## docs/plan2.md
+
+- czym dalej w przyszłość tym większa jednostka miary,
+- the planning activity is everything,
+- w projekcie byśmy co 2 tygodnie sprawdzali, gdzie jesteśmy i czy musimy zmienić plan.
+
+---
+<!-- _class: lead -->
 ## Następne spotkanie
 
 [Checkpoint](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/12_checkpoint):
 
-- kod, gdzie jesteśmy
+- demo, kod, gdzie jesteśmy
 - część pisemna
 
-Wszysto w repozytorium.
+**Wszystko w repozytorium**.
 
 ---
 <!-- _class: lead -->
