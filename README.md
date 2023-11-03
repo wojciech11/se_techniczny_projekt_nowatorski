@@ -72,7 +72,7 @@ Przed nami 5 spotkań:
    - czy są jakieś trudności?
    - Wymagania formalne?
 
-   + sesja o literaturze.
+   + sesja o literaturze - [slajdy](03_related_work_and_structure/index.pdf)
 
 4. Odpowiedzi na pytania, zaraz po tych zajęciach, proszę o przesłanie emaila (tytuł: *Projekt Nowatorski 3* plus nazwa grupy) z statusem i linkiem do aplikacji oraz części pisemnej w repozytorium githuba.
 
