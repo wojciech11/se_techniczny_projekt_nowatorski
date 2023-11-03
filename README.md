@@ -70,6 +70,7 @@ Przed nami 5 spotkań:
    - co zrobione,
    - co będzie zrobione,
    - czy są jakieś trudności?
+   - Wymagania formalne?
 
    + sesja o literaturze.
 
