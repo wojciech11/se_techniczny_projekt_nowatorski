@@ -6,6 +6,6 @@
 - [Proof-of-Concept](https://codilime.com/blog/what-is-a-proof-of-concept-and-why-do-you-need-one/);
 - tracer bullet development!
 
-Więcej:
+More:
 
 - lean UX.
