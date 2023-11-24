@@ -1,8 +1,13 @@
-# Techniczny projekt nowatorski
+# Techniczny projekt nowatorski / Innovative Technical Project
+
+- pl: [Techniczny projekt nowatorski](#techniczny-projekt-nowatorski)
+- en: [Innovative Technical Project](#innovative-technical-project)
+
+## Techniczny projekt nowatorski
 
 **Każdy z 3 semestrów to jest kolejna iteracja, eksperyment.**
 
-## Semestr 1
+### Semestr 1
 
 Cel: Temat, opis tematu, [PoC lub MVP](02_validating_ideas/README.md), oraz początki części pisemnej. Najwięcej energi powinno pójść na aplikację.
 
@@ -30,9 +35,9 @@ Spotkania (5 razy):
 
    Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 1* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
 
-## Semestr 2
+### Semestr 2
 
-Cel: delivery end2end, czyli działająca aplikacja w happy path + kolejna iteracja nad częścią pisemną - wczesny draft. Widzimy się 5 razy na dwie godziny lekcyjne. Najwięcej energi powinno pójść na aplikację, 10-20% na część pisemną. 
+Cel: delivery end2end, czyli działająca aplikacja w happy path + kolejna iteracja nad częścią pisemną - wczesny draft. Widzimy się 5 razy na dwie godziny lekcyjne. Najwięcej energi powinno pójść na aplikację, 10-20% na część pisemną.
 
 Spotkania (5 razy):
 
@@ -55,7 +60,7 @@ Spotkania (5 razy):
 
    Proszę po prezentacji, przesłać emaila (tytuł: *Projekt Nowatorski 2* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę. Może macie jakieś pytania lub jesteście zblokowani.
 
-## Semestr 3
+### Semestr 3
 
 Tryb: patchowanie/rozbudowa aplikacji i focus na części pisemnej. Cel: złożenie pracy + obrona.
 
@@ -88,6 +93,28 @@ Przed nami 5 spotkań:
    Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 3* plus nazwa grupy) do prowadzącego z linkiem do repo oraz krótką notką, jeśli prowadzący ma zwrócić na coś uwagę.
 
 6. **Następnym krokiem jest przesłanie pracy do recenzji**, do ustalonego terminu podanego na pierwszych zajęciach (patrz [slajdy](21_wstep/slides.pdf)).
+
+## Innovative Technical Project
+
+**Each of 3 semesters is another iteration, an experiment**
+
+### Semester 1
+
+Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README.md), some very early stages of the writing part. Most of your energy should go into the application development.
+
+1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template.
+
+2. Questions&Answers
+
+3. You present your project goals
+
+4. Demo MVP/PoC
+
+5. Final demo and presentation.
+
+### Semester 2
+
+### Semester 3
 
 ## Materiały dodatkowe
 
