@@ -96,7 +96,7 @@ Przed nami 5 spotkań:
 
 ## Innovative Technical Project
 
-**Each of 3 semesters is another iteration, an experiment**
+**Each of 3 semesters is another iteration, an experiment.**
 
 ### Semester 1
 
@@ -114,7 +114,11 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 ### Semester 2
 
+Goal: deliver end2end for your app, so your app happy paths + early draft for your thesis. Most of your energy [should](https://www.rfc-editor.org/rfc/rfc2119) go into the app development, 10-20% on the thesis.
+
 ### Semester 3
+
+Goal: TBA
 
 ## Materiały dodatkowe
 
