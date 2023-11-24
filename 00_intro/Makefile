@@ -11,3 +11,5 @@ give_me_pdf:
 give_me_zip:
 	cd .. && zip -r $(CURDIR).zip $(CURDIR)/*
 
+spelling:
+	hunspell -d en_US index.html

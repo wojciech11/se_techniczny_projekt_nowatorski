@@ -1,3 +1,3 @@
-# Wprowadzenie
+# Introduction
 
-- slajdy: [pdf](index.pdf)
+- slides: [pdf](index.pdf)
