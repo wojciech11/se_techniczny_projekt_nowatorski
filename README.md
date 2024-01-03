@@ -120,6 +120,16 @@ Goal: deliver end2end for your app, so your app happy paths + early draft for yo
 
 Goal: TBA
 
+## Software / Tools:
+
+- Git: Github or Gitlab;
+- Bibliography:
+
+  - Search scientific literature: [google scholar](https://scholar.google.com/),
+  - Management:[Bibdesk](https://bibdesk.sourceforge.io/), [mendeley](https://www.mendeley.com/), or [jabref](https://www.jabref.org/).
+
+- Thesis: MS Word, Google Docs, or [LaTex](https://www.latex-project.org/get/).
+
 ## Materiały dodatkowe
 
 ### Techniczne
