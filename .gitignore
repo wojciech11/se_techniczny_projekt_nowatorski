@@ -1,0 +1,5 @@
+# latex
+*.aux
+*.bbl
+*.blg
+*.log

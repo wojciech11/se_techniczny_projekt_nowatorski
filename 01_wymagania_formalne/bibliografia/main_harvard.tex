@@ -1,0 +1,35 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{polski}
+\usepackage{graphicx}
+
+\usepackage{natbib}
+\bibliographystyle{agsm}
+
+\graphicspath{ {images/} }
+
+\title{
+{Przykład formatu cytowanie}\\
+{\large Institution Name}\\
+{\includegraphics[width=\textwidth]{logomerito.png}}
+}
+\author{Author Name}
+\date{Day Month Year}
+
+\begin{document}
+\maketitle
+
+% https://www.overleaf.com/learn/latex/Sections_and_chapters
+\section*{Zauważ}
+
+To jest przykład dla biblografii, a nie template dla pracy inżynierskiej.
+
+\section*{Sekcja}
+
+Tutaj cytuje książkę (\cite{knuth:1984}) i a tutaj URLwedług (\cite{immigrants2021a}).
+
+Jeśli używasz MSWorda, to MS Word ma wbudowane zarządzanie bibliografią.
+
+\bibliography{main}
+
+\end{document}
