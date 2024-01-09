@@ -1,6 +1,6 @@
 # Style bibliografii
 
-Przykłady:
+LaTeX:
 
 - [harvard](main_harvard.pdf);
 - [APA](main_apa.pdf).
