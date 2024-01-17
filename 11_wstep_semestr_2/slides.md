@@ -39,13 +39,20 @@ Na następnym spotkaniu sprawdzimy:
 
 - Pokazanie: pracy pisemnej
 
+---
+<!-- _class: lead -->
+## Status po pierwszym semestrze
+<br />
+
+Repozytorium:
+
 ```
 |- ...
 |- docs/
 |   |- related_work/
 |   |- data/
 |   |- ...
-|   \- (nazw)_(imie)_(numer albumu)_praca_inz.docx
+|   \- (nazw)_(imie)_(numer albumu)_praca.docx
 |
 |- kod i implementacja
 |
