@@ -29,6 +29,39 @@ style: |
 
 ---
 <!-- _class: lead -->
+## Status po drugim semestrze
+<br />
+
+Repozytorium:
+
+```
+|- ...
+|- docs/
+|   |- related_work/
+|   |- data/
+|   |- ...
+|   \- (nazw)_(imie)_(numer albumu)_praca.docx
+|
+|- kod i implementacja
+|
+\- README.md
+```
+
+---
+<!-- _class: lead -->
+## Składanie pracy
+<br />
+
+Składamy ostatecznie (oraz wysyłamy do JSA): 
+
+**(nazw)\_(imie)\_(numer albumu)\_praca.pdf**
+
+na przykład:<br />
+
+**kowalska_marlena_99999_praca.pdf**
+
+---
+<!-- _class: lead -->
 ## Praca wspólna
 <br />
 
