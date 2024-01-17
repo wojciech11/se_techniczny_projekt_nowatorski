@@ -40,8 +40,14 @@ Na następnym spotkaniu sprawdzimy:
 - Pokazanie: pracy pisemnej
 
 ```
-|- ... # kod
+|- ...
 |- docs/
+|   |- related_work/
+|   |- data/
+|   |- ...
+|   \- (nazw)_(imie)_(numer albumu)_praca_inz.docx
+|
+|- kod i implementacja
 |
 \- README.md
 ```
