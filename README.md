@@ -118,7 +118,7 @@ Goal: deliver end2end for your app, so your app happy paths + early draft for yo
 
 ### Semester 3
 
-Goal: TBA
+TBA
 
 ## Software / Tools:
 
