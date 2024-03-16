@@ -144,6 +144,27 @@ Kod:
 
 ---
 <!-- _class: lead -->
+## Temat części pisemnej
+
+Spójna historia, oparta na mocnych stronach waszej pracy:
+
+1. Temat podkreślający focus waszej pracy;
+2. Wprowadzenie: why, what, how nakierowuje recenzenta, co jest problemem/celem aplikacji;
+3. Nazwy tytułów rozdziałów.
+
+---
+<!-- _class: lead -->
+## Temat części pisemnej
+
+Przykład:
+
+- nie: budowa MMORG... (zakładając, że poszliśmy bardzo ambitlnie i wielkość projektu nas przytłacza);
+- tak: generewanie asetów graficznych na przykładzie klona HoMM3.
+
+Pod koniec semestry 2, trzeba będzie podjąć decyzję.
+
+---
+<!-- _class: lead -->
 ## Część Pisemna
 
 Rekomendacja:
@@ -166,7 +187,7 @@ W repozytorium githuba (docx, latex...):
 |   |- related_work/
 |   |- data/
 |   |- ...
-|   \- praca_inz.docx
+|   \- (nazw)_(imie)_(numer albumu)_praca.docx
 |
 |- kod i implementacja
 |
@@ -197,7 +218,6 @@ Alternatywa, e.g., Google Spreadsheet:
 
 ```
 # Plan - semestr 2
-
 ## Plan 
 
 Data                    | Zadanie         | Notatka    |
