@@ -64,6 +64,27 @@ Repozytorium:
 
 ---
 <!-- _class: lead -->
+## Komunikacja między zajęciami
+<br />
+
+Email:
+
+- wojciech.barczynski@wroclaw.merito.pl
+- tytuł emaila, postfix: (Praca Nowatorska 3, [nazwa grupy]), np.:
+
+  `nagranie demo (praca nowatorska 3, L_III_S_INFI_S3_(IAM)) `
+
+---
+<!-- _class: lead -->
+## Komunikacja między zajęciami
+<br />
+
+MSTeams:
+
+- Proszę dodać informację do wiadomości:<br />*Praca Nowatorska 3* oraz *nazwę grupy*.
+
+---
+<!-- _class: lead -->
 ## Składanie pracy
 <br />
 
