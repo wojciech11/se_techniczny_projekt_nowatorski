@@ -41,6 +41,27 @@ Na następnym spotkaniu sprawdzimy:
 
 ---
 <!-- _class: lead -->
+## Komunikacja między zajęciami
+<br />
+
+Email:
+
+- wojciech.barczynski@wroclaw.merito.pl
+- tytuł emaila, postfix: (Praca Nowatorska 2, [nazwa grupy]), np.:
+
+  `nagranie demo (praca nowatorska 2, L_III_S_INFI_S2_(IAM)) `
+
+---
+<!-- _class: lead -->
+## Komunikacja między zajęciami
+<br />
+
+MSTeams:
+
+- Proszę dodać informację do wiadomości:<br />*Praca Nowatorska 2* oraz *nazwę grupy*.
+
+---
+<!-- _class: lead -->
 ## Status po pierwszym semestrze
 <br />
 
