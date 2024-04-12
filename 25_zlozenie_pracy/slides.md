@@ -98,7 +98,7 @@ O czym zazwyczaj zapominacie:
 
 1. Wysyłamy najpierw draft do akceptacji (patrz następny slajd);
 
-2. Wysyłamy wersję finalną do promotora;
+2. Wysyłamy wersję finalną jako *pdf* do promotora;
 
 3. Promotor sprawdza pracę, jeśli nie ma uwag, przesyła do JSA;
 
