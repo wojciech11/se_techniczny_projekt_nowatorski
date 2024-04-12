@@ -96,7 +96,7 @@ O czym zazwyczaj zapominacie:
 ## Składanie pracy
 <br />
 
-1. Wysyłamy najpierw draft do akcpetacji (patrz następny slajd);
+1. Wysyłamy najpierw draft do akceptacji (patrz następny slajd);
 
 2. Wysyłamy wersję finalną do promotora;
 
