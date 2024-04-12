@@ -81,7 +81,7 @@ Przed nami 5 spotkań:
 
 4. Odpowiedzi na pytania, zaraz po tych zajęciach, proszę o przesłanie emaila (tytuł: *Projekt Nowatorski 3* plus nazwa grupy) z statusem i linkiem do aplikacji oraz części pisemnej w repozytorium githuba.
 
-5. Na zaliczenie seminarium:
+5. Na zaliczenie seminarium - patrz [checklista](25_zlozenie_pracy/slides.pdf):
 
    - live demo aplikacji potencjalnie do oddania;
    - podzielenie się doświadczeniem:
@@ -92,7 +92,7 @@ Przed nami 5 spotkań:
 
    Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 3* plus nazwa grupy) do prowadzącego z linkiem do repo oraz krótką notką, jeśli prowadzący ma zwrócić na coś uwagę.
 
-6. **Następnym krokiem jest przesłanie pracy do recenzji**, do ustalonego terminu podanego na pierwszych zajęciach (patrz [slajdy](21_wstep/slides.pdf)).
+6. **Następnym krokiem jest przesłanie pracy do recenzji** (jeśli tego jeszcze nie zrobiliście), do ustalonego terminu podanego na pierwszych zajęciach - patrz [złożenie pracy](25_zlozenie_pracy/slides.pdf).
 
 ## Innovative Technical Project
 
