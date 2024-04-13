@@ -33,7 +33,7 @@ Spotkania (5 razy):
       - literatury;
       - wszystko w Git (łącznie z prezentacją).
 
-   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 1* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
+   Proszę po zaprezentowaniu, **przesłać emaila** (tytuł: *Zaliczenie, Projekt Nowatorski 1, nazwa_grupy*) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę.
 
 ### Semestr 2
 
@@ -58,7 +58,7 @@ Spotkania (5 razy):
    - git repo: `README.md` czy jest regularnie wykorzystane do pracy (*commits*), struktura, itp. itd;
    - **Wszystko w repozytorium git: app i praca pisemna**.
 
-   Proszę po prezentacji, przesłać emaila (tytuł: *Projekt Nowatorski 2* plus nazwa grupy) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę. Może macie jakieś pytania lub jesteście zblokowani.
+   Proszę po prezentacji, **przesłać emaila** (tytuł: *Zaliczenie, Projekt Nowatorski 2, nazwa_grupy*) do prowadzącego z linkiem do repo oraz prezentacji oraz krótką notką jeśli prowadzący ma zwrócić na coś uwagę. Może macie jakieś pytania lub jesteście zblokowani.
 
 ### Semestr 3
 
@@ -90,7 +90,7 @@ Przed nami 5 spotkań:
    - przejście po części pisemnej 80%, późny draft;
    - **Wszystko w repozytorium git: app i praca pisemna**.
 
-   Proszę po zaprezentowaniu, przesłać emaila (tytuł: *Projekt Nowatorski 3* plus nazwa grupy) do prowadzącego z linkiem do repo oraz krótką notką, jeśli prowadzący ma zwrócić na coś uwagę.
+   Proszę po zaprezentowaniu, **przesłać emaila** (tytuł: *Zaliczenie, Projekt Nowatorski 3, nazwa_grupy*) do prowadzącego z linkiem do repo oraz krótką notką, jeśli prowadzący ma zwrócić na coś uwagę.
 
 6. **Następnym krokiem jest przesłanie pracy do recenzji** (jeśli tego jeszcze nie zrobiliście), do ustalonego terminu podanego na pierwszych zajęciach - patrz [złożenie pracy](25_zlozenie_pracy/slides.pdf).
 
