@@ -140,9 +140,9 @@ Goal: deliver end2end for your app, so your app happy paths + early draft for yo
 
 2. Live demo + thesis (solid draft);
 
-3. TBA;
+3. Q&A;
 
-4. TBA;
+4. Demo, status check (app, thesis, and github);
 
 5. Final demo - app & thesis (close to completion).
 
