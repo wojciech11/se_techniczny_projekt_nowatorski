@@ -102,7 +102,7 @@ Przed nami 5 spotkań:
 
 Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README.md), some very early stages of the writing part. Most of your energy should go into the application development.
 
-1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template.
+1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template;
 
 2. Questions and Answers;
 
@@ -116,11 +116,11 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 Goal: deliver end2end for your app, so your app happy paths + early draft for your thesis. Most of your energy [should](https://www.rfc-editor.org/rfc/rfc2119) go into the app development, 10-20% on the thesis.
 
-1. Introduction.
+1. Introduction;
 
-2. Demo.
+2. Demo;
 
-3. Q&A.
+3. Q&A;
 
 4. Final demo:
 
