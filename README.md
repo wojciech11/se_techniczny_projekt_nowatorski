@@ -104,17 +104,31 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template.
 
-2. Questions&Answers
+2. Questions and Answers;
 
-3. You present your project goals
+3. You present your project goals;
 
-4. Demo MVP/PoC
+4. Demo MVP/PoC;
 
 5. Final demo and presentation.
 
 ### Semester 2
 
 Goal: deliver end2end for your app, so your app happy paths + early draft for your thesis. Most of your energy [should](https://www.rfc-editor.org/rfc/rfc2119) go into the app development, 10-20% on the thesis.
+
+1. Introduction.
+
+2. Demo.
+
+3. Q&A.
+
+4. Final demo:
+
+   - Live demo end2end at least one of the app happy paths
+   - Present your thesis topic - 4 slied max
+   - Thesis: ToC, literature, very early draft;
+   - Show also your git repository and *commits* history;
+   - git repo: `README.md`, **everything** (app, the draft, slides, etc.) **is in Git**.
 
 ### Semester 3
 
