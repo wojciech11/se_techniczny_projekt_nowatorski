@@ -134,7 +134,17 @@ Goal: deliver end2end for your app, so your app happy paths + early draft for yo
 
 ### Semester 3
 
-TBA
+70%-90% focus on writing thesis, patching/extending app. Goal: submitting your thesis and thesis defense.
+
+1. Intro / Q&A;
+
+2. Live demo + thesis (solid draft);
+
+3. TBA;
+
+4. TBA;
+
+5. Final demo - app & thesis (close to completion).
 
 ## Software / Tools:
 
