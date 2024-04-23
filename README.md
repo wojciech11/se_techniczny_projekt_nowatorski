@@ -116,13 +116,15 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 Goal: deliver end2end for your app, so your app happy paths + early draft for your thesis. Most of your energy [should](https://www.rfc-editor.org/rfc/rfc2119) go into the app development, 10-20% on the thesis.
 
-1. Introduction;
+1. Introduction  - [slides](11_intro_semester_2/slides.pdf);
 
-2. Demo;
+2. Demo (mandatory);
 
 3. Q&A;
 
-4. Final demo:
+4. Demo.
+
+5. Final demo (mandatory):
 
    - Live demo end2end at least one of the app happy paths
    - Present your thesis topic - 4 slied max
