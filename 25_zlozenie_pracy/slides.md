@@ -36,7 +36,7 @@ Checklista
 |   |- related_work/
 |   |- data/
 |   |- ...
-|   \- (nazw)_(imie)_(numer albumu)_praca.docx
+|   \- (numer albumu)_(nazw)_(imie)_praca.docx
 |
 |- kod i implementacja
 |
@@ -53,11 +53,11 @@ Checklista
 
 Obowiązkowa konwencja nazewnictwa: 
 
-**(nazw)\_(imie)\_(numer albumu)\_praca.pdf**
+**(numer albumu)\_(nazw)\_(imie)\_praca.pdf**
 
 na przykład:<br />
 
-**kowalska_natalia_99999_praca.pdf**
+**99999_kowalska_natalia_praca.pdf**
 
 ---
 <!-- _class: lead -->
@@ -93,6 +93,17 @@ O czym zazwyczaj zapominacie:
 
 ---
 <!-- _class: lead -->
+## [x] Prezentacja
+
+Slajdy:
+
+- 10-12 slajdów,
+- najważniejsze elementy z projektu,
+- nie bedzie to prezentowane  do ewentualnego wglądu komisji na obronie,
+- formatka: [pptx](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/25_prezentacja).
+
+---
+<!-- _class: lead -->
 ## Składanie pracy
 <br />
 
@@ -106,7 +117,7 @@ O czym zazwyczaj zapominacie:
 
 5. Promotor przesyła studentowi raport JSA;
 
-6. Student wrzuca swoją pracę oraz potwierdzenie z JSA do moodle-a.
+6. Student wrzuca swoją pracę, prezentację, oraz potwierdzenie z JSA do moodle-a.
 
 ---
 <!-- _class: lead -->
