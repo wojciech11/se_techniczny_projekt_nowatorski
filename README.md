@@ -108,7 +108,7 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 3. Everybody presents her/his topic (4 min) with 2-slides presentatin. We will talk about the [thesis structure and literature requirements](03_related_work_and_structure/index.pdf);
 
-4. Demo MVP/PoC;
+4. Live Demo: working code of MVP/PoC;
 
 5. Final demo and presentation.
 
