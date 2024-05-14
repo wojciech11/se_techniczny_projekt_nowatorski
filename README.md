@@ -104,13 +104,18 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template;
 
-2. Questions and Answers; We will discuss formal requirements, how to [validate ideas](02_validating_ideas/README.md), and go though an example of the bachelor thesis;
+2. Questions and Answers; We will discuss formal requirements, how to [validate ideas](02_validating_ideas/README.md), and go though an example of the thesis;
 
-3. Everybody presents her/his topic (4 min) with 2-slides presentatin. We will talk about the [thesis structure and literature requirements](03_related_work_and_structure/index.pdf);
+3. Everybody presents her/his topic (4 min) with 2-slides presentation. If there is time, we look into [thesis structure and literature requirements](03_related_work_and_structure/index.pdf);
 
-4. Live Demo: working code of MVP/PoC;
+4. Live Demo: working code of MVP/PoC and git repository;
 
-5. Final demo and presentation.
+5. Final demo and presentation:
+
+   - Live demo -  PoC / Spike or MVP.
+   - Thesis: ToC and few positions for the literature;
+   - Show also your git repository and *commits* history;
+   - git repo: `README.md`, **everything** (app, the draft, slides, etc.) **is in Git**.
 
 ### Semester 2
 
