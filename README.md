@@ -104,7 +104,7 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template;
 
-2. Questions and Answers;
+2. Questions and Answers; We will discuss formal requirements, how to [validate ideas](02_validating_ideas/README.md), and go though an example of the bachelor thesis.
 
 3. You present your project goals;
 
@@ -136,7 +136,7 @@ Goal: deliver end2end for your app, so your app happy paths + early draft for yo
 
 70%-90% focus on writing thesis, patching/extending app. Goal: submitting your thesis and thesis defense.
 
-1. Intro / Q&A;
+1. Intro / Q&A; 
 
 2. Live demo + thesis (solid draft);
 
