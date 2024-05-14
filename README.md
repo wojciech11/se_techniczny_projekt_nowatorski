@@ -104,9 +104,9 @@ Goal: Topic, short descriptions, working [PoC or MVP](02_validating_ideas/README
 
 1. Introduction - [slides](00_intro/index.pdf), example of topics, how to find good ideas, formal requirements and template;
 
-2. Questions and Answers; We will discuss formal requirements, how to [validate ideas](02_validating_ideas/README.md), and go though an example of the bachelor thesis.
+2. Questions and Answers; We will discuss formal requirements, how to [validate ideas](02_validating_ideas/README.md), and go though an example of the bachelor thesis;
 
-3. You present your project goals;
+3. Everybody presents her/his topic (4 min) with 2-slides presentatin. We will talk about the [thesis structure and literature requirements](03_related_work_and_structure/index.pdf);
 
 4. Demo MVP/PoC;
 
