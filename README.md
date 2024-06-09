@@ -66,7 +66,7 @@ Tryb: patchowanie/rozbudowa aplikacji i focus na części pisemnej. Cel: złoże
 
 Przed nami 5 spotkań:
 
-1. Wstęp: [slajdy](21_wstep_semestr_3/slides.pdf), [wymagania formalne oraz manual](01_wymagania_formalne/); sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania.
+1. Wstęp: [slajdy](21_wstep_semestr_3/slides.pdf), [wymagania formalne oraz manual](01_wymagania_formalne/), jak będę oceniał (**formatka oceny**); sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania.
 
 2. Live demo (**wymagane do zaliczenia**), przedstawienie planu na semestr *3* projektu nowatorskiego, pokazanie wczesnego draft pracy: jaki template wybraliście oraz format dla cytowania literatury.
 
@@ -141,7 +141,7 @@ Goal: deliver end2end for your app, so your app happy paths + early draft for yo
 
 70%-90% focus on writing thesis, patching/extending app. Goal: submitting your thesis and thesis defense.
 
-1. Intro / Q&A; 
+1. Introduction - slides, **formal requirements**, how I will grade your thesis; checking the status of your work, whether you are blocked by anything, and Q&A; 
 
 2. Live demo + thesis (solid draft);
 
