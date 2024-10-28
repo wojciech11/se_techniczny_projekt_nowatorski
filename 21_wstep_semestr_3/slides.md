@@ -199,8 +199,3 @@ Plagiat:
 <!-- _class: lead -->
 ## Dziękuję za uwagę
 <br />
-
----
-<!-- _class: lead -->
-## Backup
-<br />
