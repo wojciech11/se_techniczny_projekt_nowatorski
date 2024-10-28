@@ -93,17 +93,6 @@ O czym zazwyczaj zapominacie:
 
 ---
 <!-- _class: lead -->
-## [x] Prezentacja
-
-Slajdy:
-
-- 10-12 slajdów,
-- najważniejsze elementy z projektu,
-- nie bedzie to prezentowane  do ewentualnego wglądu komisji na obronie,
-- formatka: [pptx](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/25_prezentacja).
-
----
-<!-- _class: lead -->
 ## Składanie pracy
 <br />
 
@@ -117,7 +106,7 @@ Slajdy:
 
 5. Promotor przesyła studentowi raport JSA;
 
-6. Student wrzuca swoją pracę, prezentację, oraz potwierdzenie z JSA do moodle-a.
+6. Student wrzuca swoją pracę oraz potwierdzenie z JSA do moodle-a.
 
 ---
 <!-- _class: lead -->
