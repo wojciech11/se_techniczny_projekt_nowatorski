@@ -55,7 +55,7 @@ Repozytorium:
 |   |- related_work/
 |   |- data/
 |   |- ...
-|   \- (nazw)_(imie)_(numer albumu)_praca.docx
+|   \- (numer albumu)_(nazw)_(imie)_praca.docx
 |
 |- kod i implementacja
 |
@@ -90,11 +90,11 @@ MSTeams:
 
 Konwencja nazewnictwa (oraz ja wysyłam do JSA): 
 
-**(nazw)\_(imie)\_(numer albumu)\_praca.pdf**
+**(numer albumu)\_(nazw)\_(imie)\_praca.pdf**
 
 na przykład:<br />
 
-**kowalska_marlena_99999_praca.pdf**
+**99999_kowalska_marlena_praca.pdf**
 
 ---
 <!-- _class: lead -->
@@ -130,14 +130,34 @@ na przykład:<br />
    - 5 czasopism lub artykułów.
 
 - styl harvard: [01_wymagania_formalne/bibliografia](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_wymagania_formalne/bibliografia).
+- Related work: Google Scholar.
 
 ---
 <!-- _class: lead -->
 ## Część pisemna
 
 - [Wytyczne Merito dotyczące pracy inz](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/01_wymagania_formalne/13_2021-Zarzadzenie_projekt_inz.pdf)
-- Related work: Google Scholar,
-- Format: docx lub LaTeX.
+
+---
+<!-- _class: lead -->
+## Temat części pisemnej
+
+Spójna historia, oparta na mocnych stronach waszej pracy:
+
+1. Temat podkreślający focus waszej pracy;
+2. Wprowadzenie: why, what, how nakierowuje recenzenta, co jest problemem/celem aplikacji;
+3. Nazwy tytułów rozdziałów.
+
+---
+<!-- _class: lead -->
+## Temat części pisemnej
+
+Przykład:
+
+- nie: budowa MMORG... (zakładając, że poszliśmy bardzo ambitlnie i wielkość projektu nas przytłacza);
+- tak: generewanie asetów graficznych na przykładzie klona HoMM3.
+
+Pod koniec semestry 2, trzeba będzie podjąć decyzję.
 
 ---
 <!-- _class: lead -->
@@ -145,7 +165,7 @@ na przykład:<br />
 
 Rekomendacja:
 
-- wyłączamy podkreślanie gramatyki itp.
+- wyłączamy podkreślanie gramatyki itp.,
 - Przelewamy na "papier" swoje myśli,
 - koniec paragrafu? Teraz redagujemy.
 
@@ -160,6 +180,13 @@ Plagiat:
 1. Cytaty: `"`,
 2. Nie zapominamy o przypis / odnośnik do literatury,
 3. Praca przejdzie przez system antyplagiatowy: [jsa](https://jsa.opi.org.pl/home/login).
+
+
+---
+<!-- _class: lead -->
+## O czym zazwyczaj zapominacie
+
+[github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/25_zlozenie_pracy/slides.pdf](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/25_zlozenie_pracy/slides.pdf)
 
 ---
 <!-- _class: lead -->
