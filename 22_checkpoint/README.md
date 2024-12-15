@@ -17,4 +17,6 @@
 
    - Informacja czy dostaliście ode mnie już OK po demie, że wasza aplikacja jest wystarczająco złożona.
 
+   - Proszę podsumować feedback, który ode mnie dostaliście.
+
    - (Opcjonalne) Pytania dotyczące pracy pisemnej czy aplikacji.
