@@ -1,11 +1,11 @@
-# Złożenie pracy
+# Złożenie pracy Emailem
 
 1. Do: wojciech.barczynski@wroclaw.merito.pl
 2. Tytuł emaila, postfix: (Praca Nowatorska 3, [nazwa grupy]), np.:
 
-  `draft pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
+   `draft pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
 
-  `złożenie pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
+   `finalne złożenie pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
 
 3. Wymagane infromacje w emailu:
 
