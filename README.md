@@ -68,7 +68,7 @@ Przed nami 5 spotkań:
 
 1. Wstęp: [slajdy](21_wstep_semestr_3/slides.pdf), [wymagania formalne oraz manual](01_wymagania_formalne/), jak będę oceniał (**formatka oceny**); sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania.
 
-2. Live demo (**wymagane do zaliczenia**, czy wystarczająco złożona aplikacja), przedstawienie planu na semestr *3* projektu nowatorskiego, pokazanie wczesnego draft pracy: jaki template wybraliście oraz format dla cytowania literatury.
+2. Live demo (**wymagane do zaliczenia**, czy wystarczająco złożona aplikacja), przedstawienie planu na semestr *3* projektu nowatorskiego, pokazanie wczesnego draft pracy: jaki template wybraliście oraz format dla cytowania literatury. Proszę po tym spotkaniu przesłać mi emaila według [wskazówek](21_checkpoint/README.md).
 
 3. Odpowiedzi na pytania do aplikacji oraz pracy pisemnej:
 
