@@ -72,6 +72,18 @@ O czym zazwyczaj zapominacie:
 
 ---
 <!-- _class: lead -->
+## [x] Część pisemna: kluczowe elementy
+
+O czym zazwyczaj zapominacie:
+
+- Przed omówieniem szczegółów implementacyjnych w rozdziale temu poświęconemu:
+
+   - Pokażcie kilka screenshotów
+   - Diagram contekstu (~ [C4](https://c4model.com/#SystemContextDiagram) w którym, żyje wasza aplikacja, z czym się integruje
+   - paragram pokazujący waszą aplikację z lotu ptaka.
+
+---
+<!-- _class: lead -->
 ## [x] Część pisemna: bibliografia
 
 - styl harvard,
