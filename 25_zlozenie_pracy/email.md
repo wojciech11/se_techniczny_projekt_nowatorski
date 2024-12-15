@@ -7,7 +7,7 @@
 
   `złożenie pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
 
-3. Wymagane infromacje:
+3. Wymagane infromacje w emailu:
 
    - Załącznik, część pisemna:
 
@@ -15,6 +15,10 @@
 
      np., **99999_kowalska_natalia_praca.pdf**
 
-   - Link go githuba (z pracą pisemną).
-   - Informacja czy dostaliście ode mnie już OK, że wasza aplikacja jest wystarczająco złożona.
+   - Link go githuba aplikacji (z pracą pisemną).
+
+   - Informacja czy dostaliście ode mnie już OK po demie, że wasza aplikacja jest wystarczająco złożona.
+
    - Informacja co się zmieniło w porównaniu od ostatniego spotkania/konsultacji. Jeśli zmiany wynikały z mojego feedbacku, proszę to dodać.
+
+   - Pytania dotyczące pracy pisemnej, jeśli jakieś macie.
