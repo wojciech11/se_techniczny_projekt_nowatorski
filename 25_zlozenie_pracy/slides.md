@@ -110,7 +110,7 @@ O czym zazwyczaj zapominacie:
 
 ---
 <!-- _class: lead -->
-## Przesłanie pracy
+## Przesłanie pracy Emailem 1/2
 <br />
 
 - wojciech.barczynski@wroclaw.merito.pl
@@ -119,6 +119,18 @@ O czym zazwyczaj zapominacie:
   `draft pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
 
   `złożenie pracy (praca nowatorska 3, L_III_S_INFI_S3_(IAM))`
+
+---
+<!-- _class: lead -->
+## Przesłanie pracy Emailem 2/2
+<br />
+
+Obowiązkowo:
+
+- Załącznik, część pisemna.
+- Link go githuba (z pracą pisemną).
+- Informacja czy dostaliście ode mnie już OK, że wasza aplikacja jest wystarczająco złożona.
+- Informacja co się zmieniło w porównaniu od ostatniego update-u.
 
 ---
 <!-- _class: lead -->
@@ -153,5 +165,5 @@ Plagiat:
 
 ---
 <!-- _class: lead -->
-## Dziękuję za uwagę
+## Powodzenia
 <br />
