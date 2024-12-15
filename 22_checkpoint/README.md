@@ -17,4 +17,4 @@
 
    - Informacja czy dostaliście ode mnie już OK po demie, że wasza aplikacja jest wystarczająco złożona.
 
-   - Pytania dotyczące pracy pisemnej czy aplikacji, jeśli jakieś macie.
+   - (Opcjonalne) Pytania dotyczące pracy pisemnej czy aplikacji.
