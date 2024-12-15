@@ -90,7 +90,7 @@ Przed nami 5 spotkań:
    - przejście po części pisemnej 80%, późny draft;
    - **Wszystko w repozytorium git: app i praca pisemna**.
 
-   Proszę po zaprezentowaniu, **przesłać emaila** (tytuł: *Zaliczenie, Projekt Nowatorski 3, nazwa_grupy*) do prowadzącego z linkiem do repo oraz krótką notką, jeśli prowadzący ma zwrócić na coś uwagę.
+   Proszę po zaprezentowaniu, **przesłać emaila** (tytuł: *Zaliczenie, Projekt Nowatorski 3, nazwa_grupy*, [wymagane informacje](25_zlozenie_pracy/email.md)) do prowadzącego z linkiem do repo oraz krótką notką, jeśli prowadzący ma zwrócić na coś uwagę.
 
 6. **Następnym krokiem jest przesłanie pracy do recenzji** (jeśli tego jeszcze nie zrobiliście), do ustalonego terminu podanego na pierwszych zajęciach, **proszę pamiętać o zawarciu wszystkich informacji w emailu!** - patrz [złożenie pracy](25_zlozenie_pracy/slides.pdf) oraz [email dla złożenia pracy](25_zlozenie_pracy/email.md).
 
