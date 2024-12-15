@@ -125,7 +125,7 @@ O czym zazwyczaj zapominacie:
 ## Przesłanie pracy Emailem 2/2
 <br />
 
-Obowiązkowo (patrz [22_checkpoint/email.md](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/25_zlozenie_pracy/email.md)):
+Obowiązkowo (patrz [25_zlozenie_pracy/email.md](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/blob/master/25_zlozenie_pracy/email.md)):
 
 - Załącznik, część pisemna.
 - Link go githuba (z pracą pisemną).
