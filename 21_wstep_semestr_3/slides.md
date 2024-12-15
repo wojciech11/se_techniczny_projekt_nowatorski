@@ -111,6 +111,8 @@ na przykład:<br />
 
 5. Student wrzuca swoją pracę oraz potwierdzenie z JSA do moodle-a.
 
+**Patrz: slajdy złożenie pracy.**
+
 ---
 <!-- _class: lead -->
 ## Praca wspólna
