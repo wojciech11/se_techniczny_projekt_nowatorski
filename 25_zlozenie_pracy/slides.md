@@ -84,20 +84,28 @@ O czym zazwyczaj zapominacie:
 
 ---
 <!-- _class: lead -->
-## [x] Część pisemna: bibliografia
+## [x] Część pisemna: bibliografia 1/3
 
 - styl harvard,
 - Przeczytaj: [github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_wymagania_formalne](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_wymagania_formalne).
 
 ---
 <!-- _class: lead -->
-## [x] Część pisemna: bibliografia
+## [x] Część pisemna: bibliografia 2/3
 
 - literatura - pierwszy rozdział projektu jest teoretyczny tzn. do 20 stron max. opisu technologii która będzie zostanie wykorzystana w kolejnych rozdziałach, tutaj trzeba zawrzeć min.:
  
    - 5 stron www,
    - 5 książek,
    - 5 czasopism lub artykułów.
+
+---
+<!-- _class: lead -->
+## [x] Część pisemna: bibliografia 3/3
+
+- wyszukaj artykuł lub książkę w [scholar.google.com](https://scholar.google.com/)
+- naciśnij "Cite" -> wybierz Bibtex
+- przekopiuj pola do nowej pozycji w Twojej bibliografii MSWord
 
 ---
 <!-- _class: lead -->
