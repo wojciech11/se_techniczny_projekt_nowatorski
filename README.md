@@ -41,7 +41,7 @@ Cel: delivery end2end, czyli działająca aplikacja w happy path + kolejna itera
 
 Spotkania (5 razy):
 
-1. Wstęp & sprawdzenie, sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md)). Proszę powtórzyć sobie [wymagania formalne](01_wymagania_formalne/);
+1. Wstęp & sprawdzenie, sprawdzenie gdzie jesteście, czy jesteście czymś zablokowani, odpowiedzi na pytania - [slajdy](11_wstep_semestr_2/slides.pdf) ([md](11_wstep_semestr_2/slides.md)). Proszę powtórzyć sobie [wymagania formalne](01_wymagania_formalne/), omówimy jak powinna wyglądać [praca pisemna](11_praca_pisemna_wskazowki/).
 
 2. Demo aplikacji (wymagane do zaliczenia), przedstawienie planu na semestr 3 projektu nowatorskiego + pokazanie uzupełnionych braków (jeśli takie były) - [co trzeba mieć](12_checkpoint/README.md);
 

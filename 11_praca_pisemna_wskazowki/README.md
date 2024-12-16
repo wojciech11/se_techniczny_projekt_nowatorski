@@ -1,0 +1,3 @@
+# Sugerowana struktura
+
+TBA
