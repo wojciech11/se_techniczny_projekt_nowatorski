@@ -3,3 +3,6 @@
 *.bbl
 *.blg
 *.log
+
+#msdoc
+*/~$main.docx
