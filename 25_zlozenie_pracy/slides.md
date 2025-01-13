@@ -36,7 +36,7 @@ Checklista
 |   |- related_work/
 |   |- data/
 |   |- ...
-|   \- (numer albumu)_(nazw)_(imie)_praca.docx
+|   \- (nazw)_(imie)_(numer albumu)_praca.docx
 |
 |- kod i implementacja
 |
@@ -53,11 +53,11 @@ Checklista
 
 Obowiązkowa konwencja nazewnictwa: 
 
-**(numer albumu)\_(nazw)\_(imie)\_praca.pdf**
+**(nazw)\_(imie)\_(numer albumu)\_praca.pdf**
 
 na przykład:<br />
 
-**99999_kowalska_natalia_praca.pdf**
+**kowalska_natalia_99999_praca.pdf**
 
 ---
 <!-- _class: lead -->

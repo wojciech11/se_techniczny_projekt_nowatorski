@@ -11,9 +11,9 @@
 
    - Załącznik, część pisemna:
 
-     **(numer albumu)\_(nazw)\_(imie)\_praca.pdf**
+     **(nazw)\_(imie)\_(numer albumu)\_praca.pdf**
 
-     np., **99999_kowalska_natalia_praca.pdf**
+     np., **kowalska_natalia_99999_praca.pdf**
 
    - Link go githuba aplikacji (z pracą pisemną).
 
